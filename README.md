@@ -93,6 +93,9 @@ A solução é composta por:
 - Oracle Database (armazenamento)
 - Modelo de IA (processamento)
 
+![grafic](https://github.com/user-attachments/assets/f5390756-6512-40d3-9b10-a5c2f5cf8415)
+
+
 ### 🔹 Fluxo
 
 1. Usuário acessa o sistema
@@ -102,6 +105,9 @@ A solução é composta por:
 5. IA processa e gera previsão
 6. Resultado é salvo no banco
 7. APEX exibe alertas e mapa
+
+
+![grafic2](https://github.com/user-attachments/assets/7843255e-98b9-43de-904b-0ca524fb7bd4)
 
 ---
 
@@ -173,18 +179,13 @@ A integração com Oracle APEX e Oracle Database garante uma solução robusta, 
 
 ---
 
-# 📂 Como Executar o Projeto
-
-*(Adicionar instruções conforme implementação)*
-
----
 
 # 📽️ Vídeo Pitch
 
-*(Inserir link do YouTube aqui)*
+[*(Video Pitch)*](https://youtu.be/LBRSHrHBVpM)
 
----
 
-# 📁 Repositório
 
-*(Inserir link do GitHub aqui)*
+
+
+
